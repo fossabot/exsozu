@@ -1,6 +1,7 @@
 # ExSozu
 
 [![CircleCI](https://circleci.com/gh/evuez/exsozu.svg?style=svg)](https://circleci.com/gh/evuez/exsozu)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fevuez%2Fexsozu.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fevuez%2Fexsozu?ref=badge_shield)
 
 A resilient Elixir client for the [Sōzu HTTP reverse proxy](https://github.com/sozu-proxy/sozu).
 
@@ -30,3 +31,7 @@ iex> receive do: (m -> m)
 ```
 
 I also made a demo interface using ExSozu: [https://github.com/evuez/sozui](https://github.com/evuez/sozui).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fevuez%2Fexsozu.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fevuez%2Fexsozu?ref=badge_large)
